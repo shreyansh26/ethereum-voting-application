@@ -17,4 +17,5 @@ ethereum-voting-application
 2. Copy the obtained address of smart contract in the **index.js** file.
 3. Then start a local server with `python -m SimpleHTTPServer`
 4. Then head to `localhost:8000`
-5. Apart from the webpage, the current no. of votes can be checked by `node checkvotes.js *Address of smart contract*`
+5. Sync **MetaMask** with some private key from your `testrpc`.
+6. Apart from the webpage, the current no. of votes can be checked by `node checkvotes.js *Address of smart contract*`
