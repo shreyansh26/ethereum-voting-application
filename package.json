@@ -1,0 +1,24 @@
+{
+  "name": "ethereum-voting-app",
+  "version": "1.0.0",
+  "description": "Simple Voting app in Ethereum",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreyansh26/cool-tests.git"
+  },
+  "author": "shreyansh26",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shreyansh26/cool-tests/issues"
+  },
+  "homepage": "https://github.com/shreyansh26/cool-tests#readme",
+  "dependencies": {
+    "sleep": "^5.1.1",
+    "solc": "^0.4.19",
+    "web3": "github:ethereum/web3.js"
+  }
+}
