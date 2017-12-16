@@ -12,7 +12,7 @@ ethereum-voting-application
 4. sleep  
   `npm install sleep --save`
 
-## To run -
+## To run
 1. Go to the root of the project and run `node app.js`. This initialises the contract.
 2. Copy the obtained address of smart contract in the **index.js** file.
 3. Then start a local server with `python -m SimpleHTTPServer`
