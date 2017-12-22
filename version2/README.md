@@ -1,10 +1,10 @@
-ethereum-voting-application - Version1
+ethereum-voting-application - Version2
 =======================================
 
 ## Dependecies
 1. truffle   
   `npm install -g truffle`
-  
+
 2. webpack  
   `npm install -g webpack`
 
